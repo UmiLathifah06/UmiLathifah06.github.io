@@ -1,0 +1,46 @@
+img {
+  border-bottom-style: ridge;
+  border-bottom-color: light blue;
+  border-bottom-width: 7px;
+}
+body{
+	background-color:white;
+	background-image: url(ltar.jpg) ;
+	background-repeat: no-repeat center fixed;
+	background-size: cover;
+	height:500px;
+	position: relative;
+	background-opacity: 50%;
+	
+
+}
+.wrap{
+	font-family:Times New Roman;
+	background-color:none;
+
+}
+.container{
+	padding: 5px;
+}
+table{
+	margin:5px;
+}
+button{
+	width: 70px;
+	font-family:Times New Roman;
+	height: 30px;
+	background-color:light blue;
+	text-align:center;
+	text-decoration:none;
+	display: inline-block;
+	background-radius: 6px;
+}
+div p {
+	color: red;
+}
+fieldset {
+	border-radius: 50px;
+	border: 2px solid, grey;
+	padding: 20px;
+	width: 1200px; 
+}
